@@ -27,7 +27,7 @@ jobs:
 
       - name: Clear files...
         run: | 
-          rm unified.txt
+          rm -f unified.txt
 
       # Runs a set of commands using the runners shell
       - name: Download files...
