@@ -34,6 +34,7 @@ jobs:
         run: |
           wget https://block.energized.pro/unified/formats/filter -O unified.txt
           wget https://block.energized.pro/extensions/social/formats/filter -O social.txt
+          wget https://block.energized.pro/ultimate/formats/filter -O ultimate.txt
           
       - name: Upload changes...
         uses: EndBug/add-and-commit@v7
