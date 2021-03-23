@@ -33,6 +33,7 @@ jobs:
       - name: Download files...
         run: |
           wget https://block.energized.pro/unified/formats/filter -O unified.txt
+          wget https://block.energized.pro/extensions/social/formats/hosts.txt -O social.txt
           
       - name: Upload changes...
         uses: EndBug/add-and-commit@v7
