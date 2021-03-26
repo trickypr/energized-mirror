@@ -24,13 +24,13 @@
 ! Title: Energized Social Extension
 ! Description: Social Sites and Apps Blocking.
 ! Format: adblock
-! Version: 21.03.084
-! Release: 084
+! Version: 21.03.085
+! Release: 085
 ! Expires: 1 day (update frequency)
-! Entries: 3,941
+! Entries: 3,935
 ! Pack Code: EX50C14L-P
 ! License: MIT, https://energized.pro/license
-! Updated: Thu, 25 Mar 21 19:38:52
+! Updated: Fri, 26 Mar 21 06:00:53
 ! RAW: https://block.energized.pro/extensions/social/formats/filter
 ! --------------------------------------------
 !
@@ -622,7 +622,6 @@
 ||check6.facebook.com^
 ||ch.linkedin.com^
 ||chyber-phreaker.internet.org^
-||cim.meebo.com^
 ||ciphercloud-expresswifi-com.tokenizerdogfood.in.expresswifi.com^
 ||classifieds.myspace.com^
 ||click.e.twitter.com^
@@ -1560,7 +1559,6 @@
 ||i-h1.pinimg.com^
 ||iictt.m.facebook.com^
 ||i.instagram.com^
-||iknopo.ru^
 ||il.linkedin.com^
 ||image-proxy-origin.twimg.com^
 ||images.instagram.com^
@@ -1569,7 +1567,6 @@
 ||imap4.freebasics.com^
 ||imap.internet.org^
 ||imdosat.0.internet.org^
-||img-trkcllcropy.mncdn.com^
 ||imp2.ads.linkedin.com^
 ||in.bantuan.linkedin.com^
 ||indiatest.in.expresswifi.com^
@@ -1655,7 +1652,6 @@
 ||i.pinimg.com^
 ||i.pinimg.com.edgekey.net^
 ||i.pinimg.com.gslb.pinterest.com^
-||i.po.st^
 ||iq.linkedin.com^
 ||i.redd.it^
 ||i.reddit.com^
@@ -2787,7 +2783,6 @@
 ||sociallist.org^
 ||socialmarker.com^
 ||socialtwist.com^
-||socpost.net^
 ||softtech.m.facebook.com^
 ||sok.m.facebook.com^
 ||sonar.fbsb1-1.fna.fbcdn.net^
@@ -3173,7 +3168,6 @@
 ||whm.internet.org^
 ||wh.reddit.com^
 ||wibiya.com^
-||widget.instagramm.ru^
 ||widget.instodom.com^
 ||widget.pushbullet.com^
 ||widgets.awe.sm^
