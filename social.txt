@@ -24,13 +24,13 @@
 ! Title: Energized Social Extension
 ! Description: Social Sites and Apps Blocking.
 ! Format: adblock
-! Version: 21.06.179
-! Release: 179
+! Version: 21.06.180
+! Release: 180
 ! Expires: 1 day (update frequency)
-! Entries: 3,894
+! Entries: 3,904
 ! Pack Code: EX50C14L-P
 ! License: MIT, https://energized.pro/license
-! Updated: Mon, 28 Jun 21 06:00:49
+! Updated: Tue, 29 Jun 21 06:00:27
 ! RAW: https://block.energized.pro/extensions/social/formats/filter
 ! --------------------------------------------
 !
@@ -147,6 +147,7 @@
 ||admin.datememe.com^
 ||admin.freebasics.com^
 ||admin.internet.org^
+||admin-staging.joinclubhouse.com^
 ||ads.facebook.com^
 ||ads.freebasics.com^
 ||ads.linkedin.com^
@@ -637,6 +638,7 @@
 ||comfytrade.m.facebook.com^
 ||com.internet.org^
 ||commsconnect.linkedin.com^
+||community.joinclubhouse.com^
 ||community.linkedin.com^
 ||community-test.linkedin.com^
 ||conectadosbancogalicia.m.facebook.com^
@@ -1576,6 +1578,7 @@
 ||info.internet.org^
 ||info.twitter.com^
 ||in.linkedin.com^
+||instagr.am^
 ||instagram.c10r.facebook.com^
 ||instagram.com^
 ||instagram-shv-01-ams2.fbcdn.net^
@@ -1645,6 +1648,7 @@
 ||inyour-slb-01-05-ash3.facebook.com^
 ||iorg-bola-net.0.internet.org^
 ||iorg-kapanlagi-com.0.internet.org^
+||ios.joinclubhouse.com^
 ||iphone.facebook.com^
 ||iphone.linkedin.com^
 ||i.pinimg.com^
@@ -1673,6 +1677,7 @@
 ||jira.freebasics.com^
 ||jira.internet.org^
 ||jobs.twitter.com^
+||joinclubhouse.com^
 ||jp.linkedin.com^
 ||jp.twimg.com^
 ||jv.datememe.com^
@@ -2840,6 +2845,7 @@
 ||staff.tumblr.com^
 ||stage.internet.org^
 ||staging.internet.org^
+||staging.joinclubhouse.com^
 ||standalone.ccpl.xwf.internet.org^
 ||stanleyblackanddecker.m.facebook.com^
 ||star.c10r.facebook.com^
@@ -2910,6 +2916,7 @@
 ||telkomsel.internet.org^
 ||telstra.internet.org^
 ||telstra.iph.internet.org^
+||testflight.joinclubhouse.com^
 ||testpartner.yos.sb.expresswifi.com^
 ||tgwidget.com^
 ||th.datememe.com^
@@ -3122,6 +3129,7 @@
 ||webpass.internet.org^
 ||web.whatsapp.com^
 ||weheartit.com^
+||welcome.joinclubhouse.com^
 ||w.facebook.com^
 ||whatsapp-cdn-shv-01-arn2.fbcdn.net^
 ||whatsapp-cdn-shv-01-atl1.fbcdn.net^
@@ -3238,9 +3246,11 @@
 ||www.imagine.linkedin.com^
 ||www.indosat.com.internet.org^
 ||www.info.internet.org^
+||www.instagr.am^
 ||www.instagram.com^
 ||www.internet.org^
 ||www.i.y.internet.org^
+||www.joinclubhouse.com^
 ||www.licdn.com^
 ||www.lifg.linkedin.com^
 ||www.linkedin.com^
