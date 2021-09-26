@@ -27,10 +27,10 @@
 ! Version: 21.09.269
 ! Release: 269
 ! Expires: 1 day (update frequency)
-! Entries: 6,960
+! Entries: 6,962
 ! Pack Code: EX50C14L-P
 ! License: MIT, https://energized.pro/license
-! Updated: Sun, 26 Sep 21 08:01:16 +06
+! Updated: Sun, 26 Sep 21 20:00:53 +06
 ! RAW: https://block.energized.pro/extensions/social/formats/filter
 ! --------------------------------------------
 !
@@ -6524,6 +6524,8 @@
 ||z-m-scontent.fbkk22-4.fna.fbcdn.net^
 ||z-m-scontent.fbkk22-5.fna.fbcdn.net^
 ||z-m-scontent.fbkk22-6.fna.fbcdn.net^
+||z-m-scontent.fbkk22-7.fna.fbcdn.net^
+||z-m-scontent.fbkk22-8.fna.fbcdn.net^
 ||z-m-scontent.fbkk2-3.fna.fbcdn.net^
 ||z-m-scontent.fbkk2-4.fna.fbcdn.net^
 ||z-m-scontent.fbkk2-5.fna.fbcdn.net^
@@ -6711,7 +6713,6 @@
 ||z-p1-static.xx.fbcdn.net^
 ||z-p1-upload.facebook.com^
 ||z-p1-video.xx.fbcdn.net^
-||z-p3-any-graph.facebook.com^
 ||z-p3-api.facebook.com^
 ||z-p3.c10r.facebook.com^
 ||z-p3-cdn.fbsbx.com^
@@ -6752,6 +6753,8 @@
 ||z-p3-scontent.fbkk22-4.fna.fbcdn.net^
 ||z-p3-scontent.fbkk22-5.fna.fbcdn.net^
 ||z-p3-scontent.fbkk22-6.fna.fbcdn.net^
+||z-p3-scontent.fbkk22-7.fna.fbcdn.net^
+||z-p3-scontent.fbkk22-8.fna.fbcdn.net^
 ||z-p3-scontent.fbkk2-3.fna.fbcdn.net^
 ||z-p3-scontent.fbkk2-4.fna.fbcdn.net^
 ||z-p3-scontent.fbkk2-5.fna.fbcdn.net^
@@ -6959,7 +6962,6 @@
 ||z-p42-scontent-yyz1-1.cdninstagram.com^
 ||z-p42-static.cdninstagram.com	^
 ||z-p42.www.instagram.com^
-||z-p4-any-graph.facebook.com^
 ||z-p4-api.facebook.com^
 ||z-p4.c10r.facebook.com^
 ||z-p4-cdn.fbsbx.com^
