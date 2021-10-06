@@ -24,13 +24,13 @@
 ! Title: Energized Social Extension
 ! Description: Social Sites and Apps Blocking.
 ! Format: adblock
-! Version: 21.10.278
-! Release: 278
+! Version: 21.10.279
+! Release: 279
 ! Expires: 1 day (update frequency)
 ! Entries: 6,962
 ! Pack Code: EX50C14L-P
 ! License: MIT, https://energized.pro/license
-! Updated: Tue, 05 Oct 21 20:24:28 +06
+! Updated: Wed, 06 Oct 21 08:17:03 +06
 ! RAW: https://block.energized.pro/extensions/social/formats/filter
 ! --------------------------------------------
 !
@@ -1565,7 +1565,6 @@
 ||digi.freebasics.com^
 ||digitalart.meetup.com^
 ||digitalfuelmarketing.slack.com^
-||digitiminimi.com^
 ||direct.musical.ly^
 ||direct.static.tagged.com^
 ||direct.www.tagged.com^
@@ -3094,6 +3093,7 @@
 ||jp.pinterest.com^
 ||jp.twimg.com^
 ||jp.weibo.com^
+||jsoon.digitiminimi.com^
 ||jss.medium.com^
 ||j.s.weibo.com^
 ||jv.datememe.com^
