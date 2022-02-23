@@ -24,13 +24,13 @@
 ! Title: Energized Social Extension
 ! Description: Social Sites and Apps Blocking.
 ! Format: adblock
-! Version: 22.02.053
-! Release: 053
+! Version: 22.02.054
+! Release: 054
 ! Expires: 1 day (update frequency)
 ! Entries: 6,966
 ! Pack Code: EX50C14L-P
 ! License: MIT, https://energized.pro/license
-! Updated: Tue, 22 Feb 22 16:18:17 +06
+! Updated: Wed, 23 Feb 22 08:15:34 +06
 ! RAW: https://block.energized.pro/extensions/social/formats/filter
 ! --------------------------------------------
 !
