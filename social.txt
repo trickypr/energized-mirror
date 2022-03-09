@@ -24,13 +24,13 @@
 ! Title: Energized Social Extension
 ! Description: Social Sites and Apps Blocking.
 ! Format: adblock
-! Version: 22.03.067
-! Release: 067
+! Version: 22.03.068
+! Release: 068
 ! Expires: 1 day (update frequency)
-! Entries: 6,966
+! Entries: 6,960
 ! Pack Code: EX50C14L-P
 ! License: MIT, https://energized.pro/license
-! Updated: Tue, 08 Mar 22 16:15:35 +06
+! Updated: Wed, 09 Mar 22 08:15:27 +06
 ! RAW: https://block.energized.pro/extensions/social/formats/filter
 ! --------------------------------------------
 !
@@ -3134,7 +3134,6 @@
 ||ksolo.myspace.com^
 ||kuakin.i.org^
 ||kubernetes.slack.com^
-||kuki.wacproxy.xwf.internet.org^
 ||kurtiseme.skyrock.com^
 ||kw.linkedin.com^
 ||kxdcp.yy.com^
@@ -6494,11 +6493,9 @@
 ||zidian.yy.com^
 ||z.internet.org^
 ||zliide.slack.com^
-||z-m-any-api.facebook.com^
 ||z-m-api.facebook.com^
 ||z-m.c10r.facebook.com^
 ||z-m-external.fceb1-1.fna.fbcdn.net^
-||z-m-external.fopo1-1.fna.fbcdn.net^
 ||z-m-external-mad1-1.xx.fbcdn.net^
 ||z-m.facebook.com^
 ||z-m-fbcdn-mini-shv-01-ord1.fbcdn.net^
@@ -6721,7 +6718,6 @@
 ||z-p3.c10r.facebook.com^
 ||z-p3-cdn.fbsbx.com^
 ||z-p3-external-dfw5-2.xx.fbcdn.net^
-||z-p3-external.faly3-2.fna.fbcdn.net^
 ||z-p3-external.feoh1-1.fna.fbcdn.net^
 ||z-p3-external.fgdl5-2.fna.fbcdn.net^
 ||z-p3-external.fmdc1-1.fna.fbcdn.net^
@@ -6908,9 +6904,7 @@
 ||z-p42.graph.instagram.com^
 ||z-p42.i.instagram.com^
 ||z-p42-instagram.c10r.facebook.com^
-||z-p42-instagram.fbsr2-1.fna.fbcdn.net^
 ||z-p42-instagram.fcrk3-1.fna.fbcdn.net^
-||z-p42-instagram.flhe2-1.fna.fbcdn.net^
 ||z-p42-instagram.flun1-1.fna.fbcdn.net^
 ||z-p42-instagram.flun1-2.fna.fbcdn.net^
 ||z-p42.maps.instagram.com^
