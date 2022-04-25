@@ -27,10 +27,10 @@
 ! Version: 22.04.115
 ! Release: 115
 ! Expires: 1 day (update frequency)
-! Entries: 6,960
+! Entries: 6,961
 ! Pack Code: EX50C14L-P
 ! License: MIT, https://energized.pro/license
-! Updated: Mon, 25 Apr 22 08:15:37 +06
+! Updated: Mon, 25 Apr 22 16:16:52 +06
 ! RAW: https://block.energized.pro/extensions/social/formats/filter
 ! --------------------------------------------
 !
@@ -6325,6 +6325,7 @@
 ||x.myspacecdn.com^
 ||x.myspace.com^
 ||xn--h1avi.telegram.org^
+||xn--r1a.website^
 ||x.pluso.ru^
 ||xpndr.skyrock.com^
 ||xp.reddit.com^
