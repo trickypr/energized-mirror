@@ -27,10 +27,10 @@
 ! Version: 22.05.140
 ! Release: 140
 ! Expires: 1 day (update frequency)
-! Entries: 6,961
+! Entries: 6,962
 ! Pack Code: EX50C14L-P
 ! License: MIT, https://energized.pro/license
-! Updated: Fri, 20 May 22 08:20:12 +06
+! Updated: Fri, 20 May 22 16:20:09 +06
 ! RAW: https://block.energized.pro/extensions/social/formats/filter
 ! --------------------------------------------
 !
@@ -1136,6 +1136,7 @@
 ||business.twitter.com^
 ||business.weheartit.com^
 ||button.flattr.com^
+||button-share.zalo.me^
 ||buttons.reddit.com^
 ||buy.line.me^
 ||buzzbuttons.com^
